@@ -6,6 +6,13 @@
 
 I'm fullstack JS/TS web-developer based in Russia. I extremely love coding and explore something new for me.
 
+# Projects I'm working on:
+
+[vue-todo-app](https://github.com/ThatsEmbarrassing) - Simple Todo App written in Vue. 
+Stack:
+- Vue
+- Pinia
+
 # Social & Contacts
 
 Want to follow or talk with me? Feel free to do it! You can contact me here:
