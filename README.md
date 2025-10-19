@@ -8,10 +8,15 @@ I'm fullstack JS/TS web-developer based in Russia. I extremely love coding and e
 
 # Projects I'm working on:
 
-[vue-todo-app](https://github.com/ThatsEmbarrassing) - Simple Todo App written in Vue. 
+[vue-todo-app](https://github.com/ThatsEmbarrassing/vue-todo-app) - Simple Todo App written in Vue. 
 Stack:
 - Vue
 - Pinia
+
+[nestjs-chat](https://github.com/ThatsEmbarrassing/nestjs-chat) - Nestjs chat application with websockets.
+Stack:
+- Nest.JS
+- socket.io
 
 # Social & Contacts
 
