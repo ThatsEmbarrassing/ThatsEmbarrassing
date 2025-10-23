@@ -16,6 +16,7 @@ Stack:
 [nestjs-chat](https://github.com/ThatsEmbarrassing/nestjs-chat) - Nestjs chat application with websockets.
 Stack:
 - Nest.JS
+- Prisma
 - socket.io
 
 # Social & Contacts
