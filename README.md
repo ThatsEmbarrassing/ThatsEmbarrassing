@@ -19,6 +19,8 @@ Stack:
 - Prisma
 - socket.io
 
+[bitwise-flag](https://github.com/ThatsEmbarrassing/bitwise-flag) - A lightweight TypeScript library for managing bitwise flags.
+
 # Social & Contacts
 
 Want to follow or talk with me? Feel free to do it! You can contact me here:
